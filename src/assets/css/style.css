@@ -1,0 +1,39 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input::placeholder,
+.v-file-input__text--placeholder {
+  color: var(--v-placeholder-lighten2) !important;
+  opacity: 1;
+}
+
+.v-input__slot {
+  align-items: start !important;
+}
+
+.header {
+  text-align: center;
+  text-align: -webkit-center;
+  text-align: -moz-center;
+}
+
+.header-content {
+  height: 10px;
+  max-width: 800px;
+}
+
+.label-radio {
+  color: rgba(0, 0, 0, 0.6);
+  transform: translateY(-18px) translateX(-13%) scale(0.75);
+}
+
+.v-application {
+  font-family: "Lato", sans-serif !important;
+}
