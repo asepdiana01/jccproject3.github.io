@@ -28,7 +28,7 @@
         <td>:</td>
         <td>
             <a 
-                href="h"
+                href=""
                 target="_blank"
                 rel="noopener"
             >
