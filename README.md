@@ -19,7 +19,7 @@
                 href="https://drive.google.com/drive/u/1/folders/1DypshOXPzR57qaY7v88oi6OTyX4MUVaE" 
                 target="_blank" 
                 rel="noopener">
-                Link
+                Link Drive
             </a>
         </td>
     </tr>
@@ -28,11 +28,11 @@
         <td>:</td>
         <td>
             <a 
-                href=""
+                href="https://624fb3f7cda6ce2132a76a7c--fanciful-meringue-4f866c.netlify.app/"
                 target="_blank"
                 rel="noopener"
             >
-                Link
+                Link Project
             </a>
         </td>
     </tr>
